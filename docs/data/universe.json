@@ -1,0 +1,612 @@
+[
+  {
+    "ticker": "AAPL",
+    "display": "AAPL",
+    "name": "Apple",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1980-12-12",
+    "last_date": "2026-09-04",
+    "points": 11525
+  },
+  {
+    "ticker": "MSFT",
+    "display": "MSFT",
+    "name": "Microsoft",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1986-03-13",
+    "last_date": "2026-09-04",
+    "points": 10199
+  },
+  {
+    "ticker": "GOOGL",
+    "display": "GOOGL",
+    "name": "Alphabet",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2004-08-19",
+    "last_date": "2026-09-04",
+    "points": 5547
+  },
+  {
+    "ticker": "AMZN",
+    "display": "AMZN",
+    "name": "Amazon",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1997-05-15",
+    "last_date": "2026-09-04",
+    "points": 7373
+  },
+  {
+    "ticker": "NVDA",
+    "display": "NVDA",
+    "name": "NVIDIA",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1999-01-22",
+    "last_date": "2026-09-04",
+    "points": 6948
+  },
+  {
+    "ticker": "META",
+    "display": "META",
+    "name": "Meta Platforms",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2012-05-18",
+    "last_date": "2026-09-04",
+    "points": 3595
+  },
+  {
+    "ticker": "TSLA",
+    "display": "TSLA",
+    "name": "Tesla",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2010-06-29",
+    "last_date": "2026-09-04",
+    "points": 4072
+  },
+  {
+    "ticker": "BRK-B",
+    "display": "BRK-B",
+    "name": "Berkshire Hathaway",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1996-05-09",
+    "last_date": "2026-09-04",
+    "points": 7630
+  },
+  {
+    "ticker": "JPM",
+    "display": "JPM",
+    "name": "JPMorgan Chase",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1980-03-17",
+    "last_date": "2026-09-04",
+    "points": 11713
+  },
+  {
+    "ticker": "V",
+    "display": "V",
+    "name": "Visa",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2008-03-19",
+    "last_date": "2026-09-04",
+    "points": 4646
+  },
+  {
+    "ticker": "MA",
+    "display": "MA",
+    "name": "Mastercard",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2006-05-25",
+    "last_date": "2026-09-04",
+    "points": 5102
+  },
+  {
+    "ticker": "JNJ",
+    "display": "JNJ",
+    "name": "Johnson & Johnson",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "WMT",
+    "display": "WMT",
+    "name": "Walmart",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1972-08-25",
+    "last_date": "2026-09-04",
+    "points": 13619
+  },
+  {
+    "ticker": "PG",
+    "display": "PG",
+    "name": "Procter & Gamble",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "XOM",
+    "display": "XOM",
+    "name": "Exxon Mobil",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "HD",
+    "display": "HD",
+    "name": "Home Depot",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1981-09-22",
+    "last_date": "2026-09-04",
+    "points": 11330
+  },
+  {
+    "ticker": "DIS",
+    "display": "DIS",
+    "name": "Disney",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "NFLX",
+    "display": "NFLX",
+    "name": "Netflix",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2002-05-23",
+    "last_date": "2026-09-04",
+    "points": 6111
+  },
+  {
+    "ticker": "KO",
+    "display": "KO",
+    "name": "Coca-Cola",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "PEP",
+    "display": "PEP",
+    "name": "PepsiCo",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1972-06-01",
+    "last_date": "2026-09-04",
+    "points": 13679
+  },
+  {
+    "ticker": "COST",
+    "display": "COST",
+    "name": "Costco",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1986-07-09",
+    "last_date": "2026-09-04",
+    "points": 10118
+  },
+  {
+    "ticker": "MCD",
+    "display": "MCD",
+    "name": "McDonald's",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1966-07-05",
+    "last_date": "2026-09-04",
+    "points": 15143
+  },
+  {
+    "ticker": "ADBE",
+    "display": "ADBE",
+    "name": "Adobe",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1986-08-13",
+    "last_date": "2026-09-04",
+    "points": 10093
+  },
+  {
+    "ticker": "CRM",
+    "display": "CRM",
+    "name": "Salesforce",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "2004-06-23",
+    "last_date": "2026-09-04",
+    "points": 5587
+  },
+  {
+    "ticker": "INTC",
+    "display": "INTC",
+    "name": "Intel",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1980-03-17",
+    "last_date": "2026-09-04",
+    "points": 11713
+  },
+  {
+    "ticker": "AMD",
+    "display": "AMD",
+    "name": "AMD",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1980-03-17",
+    "last_date": "2026-09-04",
+    "points": 11713
+  },
+  {
+    "ticker": "ORCL",
+    "display": "ORCL",
+    "name": "Oracle",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1986-03-12",
+    "last_date": "2026-09-04",
+    "points": 10200
+  },
+  {
+    "ticker": "BA",
+    "display": "BA",
+    "name": "Boeing",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1962-01-02",
+    "last_date": "2026-09-04",
+    "points": 16278
+  },
+  {
+    "ticker": "NKE",
+    "display": "NKE",
+    "name": "Nike",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1980-12-02",
+    "last_date": "2026-09-04",
+    "points": 11533
+  },
+  {
+    "ticker": "SBUX",
+    "display": "SBUX",
+    "name": "Starbucks",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1992-06-26",
+    "last_date": "2026-09-04",
+    "points": 8608
+  },
+  {
+    "ticker": "SPY",
+    "display": "SPY",
+    "name": "S&P 500 (SPY ETF)",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1993-01-29",
+    "last_date": "2026-09-04",
+    "points": 8458
+  },
+  {
+    "ticker": "QQQ",
+    "display": "QQQ",
+    "name": "Nasdaq 100 (QQQ ETF)",
+    "market": "us",
+    "currency": "USD",
+    "first_date": "1999-03-10",
+    "last_date": "2026-09-04",
+    "points": 6916
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "display": "RELIANCE",
+    "name": "Reliance Industries",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7702
+  },
+  {
+    "ticker": "TCS.NS",
+    "display": "TCS",
+    "name": "Tata Consultancy Services",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-08-12",
+    "last_date": "2026-09-07",
+    "points": 5978
+  },
+  {
+    "ticker": "HDFCBANK.NS",
+    "display": "HDFCBANK",
+    "name": "HDFC Bank",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "INFY.NS",
+    "display": "INFY",
+    "name": "Infosys",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "ICICIBANK.NS",
+    "display": "ICICIBANK",
+    "name": "ICICI Bank",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6007
+  },
+  {
+    "ticker": "HINDUNILVR.NS",
+    "display": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "SBIN.NS",
+    "display": "SBIN",
+    "name": "State Bank of India",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7703
+  },
+  {
+    "ticker": "BHARTIARTL.NS",
+    "display": "BHARTIARTL",
+    "name": "Bharti Airtel",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6007
+  },
+  {
+    "ticker": "KOTAKBANK.NS",
+    "display": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2001-07-02",
+    "last_date": "2026-09-07",
+    "points": 6269
+  },
+  {
+    "ticker": "LT.NS",
+    "display": "LT",
+    "name": "Larsen & Toubro",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6010
+  },
+  {
+    "ticker": "ITC.NS",
+    "display": "ITC",
+    "name": "ITC",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7702
+  },
+  {
+    "ticker": "AXISBANK.NS",
+    "display": "AXISBANK",
+    "name": "Axis Bank",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1998-11-27",
+    "last_date": "2026-09-07",
+    "points": 6943
+  },
+  {
+    "ticker": "BAJFINANCE.NS",
+    "display": "BAJFINANCE",
+    "name": "Bajaj Finance",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6007
+  },
+  {
+    "ticker": "ASIANPAINT.NS",
+    "display": "ASIANPAINT",
+    "name": "Asian Paints",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6007
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "display": "MARUTI",
+    "name": "Maruti Suzuki",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2003-07-09",
+    "last_date": "2026-09-07",
+    "points": 5743
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "display": "SUNPHARMA",
+    "name": "Sun Pharmaceutical",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "TITAN.NS",
+    "display": "TITAN",
+    "name": "Titan Company",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "display": "WIPRO",
+    "name": "Wipro",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "ULTRACEMCO.NS",
+    "display": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-08-12",
+    "last_date": "2026-09-07",
+    "points": 5977
+  },
+  {
+    "ticker": "NESTLEIND.NS",
+    "display": "NESTLEIND",
+    "name": "Nestle India",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-08-12",
+    "last_date": "2026-09-07",
+    "points": 5980
+  },
+  {
+    "ticker": "ONGC.NS",
+    "display": "ONGC",
+    "name": "Oil & Natural Gas Corp",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7702
+  },
+  {
+    "ticker": "TATASTEEL.NS",
+    "display": "TATASTEEL",
+    "name": "Tata Steel",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7705
+  },
+  {
+    "ticker": "POWERGRID.NS",
+    "display": "POWERGRID",
+    "name": "Power Grid Corp",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2007-10-05",
+    "last_date": "2026-09-07",
+    "points": 4669
+  },
+  {
+    "ticker": "NTPC.NS",
+    "display": "NTPC",
+    "name": "NTPC",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2004-11-05",
+    "last_date": "2026-09-07",
+    "points": 5396
+  },
+  {
+    "ticker": "ADANIENT.NS",
+    "display": "ADANIENT",
+    "name": "Adani Enterprises",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-07-01",
+    "last_date": "2026-09-07",
+    "points": 6009
+  },
+  {
+    "ticker": "HCLTECH.NS",
+    "display": "HCLTECH",
+    "name": "HCL Technologies",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-08-12",
+    "last_date": "2026-09-07",
+    "points": 5981
+  },
+  {
+    "ticker": "M&M.NS",
+    "display": "M&M",
+    "name": "Mahindra & Mahindra",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7703
+  },
+  {
+    "ticker": "BAJAJFINSV.NS",
+    "display": "BAJAJFINSV",
+    "name": "Bajaj Finserv",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "2002-08-12",
+    "last_date": "2026-09-07",
+    "points": 5976
+  },
+  {
+    "ticker": "DRREDDY.NS",
+    "display": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories",
+    "market": "in",
+    "currency": "INR",
+    "first_date": "1996-01-01",
+    "last_date": "2026-09-07",
+    "points": 7702
+  }
+]

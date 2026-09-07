@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "investment-time-machine"
+version = "1.0.0"
+description = "Data pipeline for the Investment Time Machine — fetches historical US/India stock and FX data for the static interactive frontend"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "stockcentric" }]
+dependencies = [
+  "yfinance>=0.2.66,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]

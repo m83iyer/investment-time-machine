@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Investment Time Machine</title>
+<meta name="description" content="What would $X invested in a stock or a US+India portfolio on a past date be worth today? See the line, the crash, and the recovery.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Stockcentric</p>
+    <h1>What would that investment be worth today?</h1>
+    <p class="sub">Pick a stock, an amount, and a date in the past. Watch the actual line — the growth, the crash, the recovery. Mix US and India stocks in one portfolio.</p>
+  </div>
+</header>
+
+<main>
+
+  <section class="panel builder-panel">
+    <div class="builder-row">
+      <div class="field grow" id="search-wrap">
+        <label for="ticker-search">Stock</label>
+        <input type="text" id="ticker-search" placeholder="Search Apple, Reliance, Tesla..." autocomplete="off">
+        <div id="search-results"></div>
+      </div>
+      <div class="field">
+        <label for="amount-input">Amount</label>
+        <input type="number" id="amount-input" placeholder="10,000" min="1" step="1">
+      </div>
+      <div class="field">
+        <label for="date-input">Since</label>
+        <input type="date" id="date-input">
+      </div>
+      <button id="add-holding-btn" disabled>Add</button>
+    </div>
+    <div id="coverage-hint" class="hint"></div>
+
+    <div id="live-preview" style="display:none;">
+      <input type="range" id="date-slider" min="0" max="100" value="0">
+      <div class="preview-row">
+        <div class="bubble-stage">
+          <div id="preview-bubble"></div>
+        </div>
+        <div class="preview-copy">
+          <div class="preview-amt" id="preview-amount-line"></div>
+          <div class="preview-value" id="preview-value-line">–</div>
+          <div class="preview-sub" id="preview-sub-line"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="holdings-list"></div>
+    <p id="empty-holdings" class="empty-state">👆 Add a stock to begin.</p>
+  </section>
+
+  <section class="panel result-panel" id="results-panel" style="display:none;">
+    <div class="result-header">
+      <div class="stat-grid" id="stat-grid"></div>
+      <div id="currency-toggle" class="segmented">
+        <button data-ccy="USD" class="active">USD</button>
+        <button data-ccy="INR">INR</button>
+      </div>
+    </div>
+
+    <div id="chart-wrap">
+      <canvas id="chart"></canvas>
+      <div id="tooltip"></div>
+    </div>
+    <div class="legend" id="legend"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p class="micro-disclosure">Past performance, not a forecast or advice · dividend-reinvested, currency-converted where relevant</p>
+  <p>@Stockcentric1 · <a href="https://github.com/m83iyer/investment-time-machine" target="_blank" rel="noopener">Source on GitHub</a> · data as of <span id="data-as-of">–</span></p>
+</footer>
+
+<script src="calc.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
