@@ -6,8 +6,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1980-12-12",
-    "last_date": "2026-09-18",
-    "points": 11534
+    "last_date": "2026-09-28",
+    "points": 11540
   },
   {
     "ticker": "MSFT",
@@ -16,8 +16,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1986-03-13",
-    "last_date": "2026-09-18",
-    "points": 10208
+    "last_date": "2026-09-28",
+    "points": 10214
   },
   {
     "ticker": "GOOGL",
@@ -26,8 +26,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2004-08-19",
-    "last_date": "2026-09-18",
-    "points": 5556
+    "last_date": "2026-09-28",
+    "points": 5562
   },
   {
     "ticker": "AMZN",
@@ -36,8 +36,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1997-05-15",
-    "last_date": "2026-09-18",
-    "points": 7382
+    "last_date": "2026-09-28",
+    "points": 7388
   },
   {
     "ticker": "NVDA",
@@ -46,8 +46,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1999-01-22",
-    "last_date": "2026-09-18",
-    "points": 6957
+    "last_date": "2026-09-28",
+    "points": 6963
   },
   {
     "ticker": "META",
@@ -56,8 +56,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2012-05-18",
-    "last_date": "2026-09-18",
-    "points": 3604
+    "last_date": "2026-09-28",
+    "points": 3610
   },
   {
     "ticker": "TSLA",
@@ -66,8 +66,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2010-06-29",
-    "last_date": "2026-09-18",
-    "points": 4081
+    "last_date": "2026-09-28",
+    "points": 4087
   },
   {
     "ticker": "BRK-B",
@@ -76,8 +76,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1996-05-09",
-    "last_date": "2026-09-18",
-    "points": 7639
+    "last_date": "2026-09-28",
+    "points": 7645
   },
   {
     "ticker": "JPM",
@@ -86,8 +86,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1980-03-17",
-    "last_date": "2026-09-18",
-    "points": 11722
+    "last_date": "2026-09-28",
+    "points": 11728
   },
   {
     "ticker": "V",
@@ -96,8 +96,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2008-03-19",
-    "last_date": "2026-09-18",
-    "points": 4655
+    "last_date": "2026-09-28",
+    "points": 4661
   },
   {
     "ticker": "MA",
@@ -106,8 +106,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2006-05-25",
-    "last_date": "2026-09-18",
-    "points": 5111
+    "last_date": "2026-09-28",
+    "points": 5117
   },
   {
     "ticker": "JNJ",
@@ -116,8 +116,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "WMT",
@@ -126,8 +126,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1972-08-25",
-    "last_date": "2026-09-18",
-    "points": 13628
+    "last_date": "2026-09-28",
+    "points": 13634
   },
   {
     "ticker": "PG",
@@ -136,8 +136,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "XOM",
@@ -146,8 +146,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "HD",
@@ -156,8 +156,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1981-09-22",
-    "last_date": "2026-09-18",
-    "points": 11339
+    "last_date": "2026-09-28",
+    "points": 11345
   },
   {
     "ticker": "DIS",
@@ -166,8 +166,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "NFLX",
@@ -176,8 +176,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2002-05-23",
-    "last_date": "2026-09-18",
-    "points": 6120
+    "last_date": "2026-09-28",
+    "points": 6126
   },
   {
     "ticker": "KO",
@@ -186,8 +186,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "PEP",
@@ -196,8 +196,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1972-06-01",
-    "last_date": "2026-09-18",
-    "points": 13688
+    "last_date": "2026-09-28",
+    "points": 13694
   },
   {
     "ticker": "COST",
@@ -206,8 +206,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1986-07-09",
-    "last_date": "2026-09-18",
-    "points": 10127
+    "last_date": "2026-09-28",
+    "points": 10133
   },
   {
     "ticker": "MCD",
@@ -216,8 +216,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1966-07-05",
-    "last_date": "2026-09-18",
-    "points": 15152
+    "last_date": "2026-09-28",
+    "points": 15158
   },
   {
     "ticker": "ADBE",
@@ -226,8 +226,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1986-08-13",
-    "last_date": "2026-09-18",
-    "points": 10102
+    "last_date": "2026-09-28",
+    "points": 10108
   },
   {
     "ticker": "CRM",
@@ -236,8 +236,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "2004-06-23",
-    "last_date": "2026-09-18",
-    "points": 5596
+    "last_date": "2026-09-28",
+    "points": 5602
   },
   {
     "ticker": "INTC",
@@ -246,8 +246,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1980-03-17",
-    "last_date": "2026-09-18",
-    "points": 11722
+    "last_date": "2026-09-28",
+    "points": 11728
   },
   {
     "ticker": "AMD",
@@ -256,8 +256,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1980-03-17",
-    "last_date": "2026-09-18",
-    "points": 11722
+    "last_date": "2026-09-28",
+    "points": 11728
   },
   {
     "ticker": "ORCL",
@@ -266,8 +266,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1986-03-12",
-    "last_date": "2026-09-18",
-    "points": 10209
+    "last_date": "2026-09-28",
+    "points": 10215
   },
   {
     "ticker": "BA",
@@ -276,8 +276,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1962-01-02",
-    "last_date": "2026-09-18",
-    "points": 16287
+    "last_date": "2026-09-28",
+    "points": 16293
   },
   {
     "ticker": "NKE",
@@ -286,8 +286,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1980-12-02",
-    "last_date": "2026-09-18",
-    "points": 11542
+    "last_date": "2026-09-28",
+    "points": 11548
   },
   {
     "ticker": "SBUX",
@@ -296,8 +296,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1992-06-26",
-    "last_date": "2026-09-18",
-    "points": 8617
+    "last_date": "2026-09-28",
+    "points": 8623
   },
   {
     "ticker": "SPY",
@@ -306,8 +306,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1993-01-29",
-    "last_date": "2026-09-18",
-    "points": 8467
+    "last_date": "2026-09-28",
+    "points": 8473
   },
   {
     "ticker": "QQQ",
@@ -316,8 +316,8 @@
     "market": "us",
     "currency": "USD",
     "first_date": "1999-03-10",
-    "last_date": "2026-09-18",
-    "points": 6925
+    "last_date": "2026-09-28",
+    "points": 6931
   },
   {
     "ticker": "RELIANCE.NS",
@@ -326,8 +326,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7712
+    "last_date": "2026-09-28",
+    "points": 7717
   },
   {
     "ticker": "TCS.NS",
@@ -336,8 +336,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-08-12",
-    "last_date": "2026-09-21",
-    "points": 5988
+    "last_date": "2026-09-28",
+    "points": 5993
   },
   {
     "ticker": "HDFCBANK.NS",
@@ -346,8 +346,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "INFY.NS",
@@ -356,8 +356,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "ICICIBANK.NS",
@@ -366,8 +366,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6017
+    "last_date": "2026-09-28",
+    "points": 6022
   },
   {
     "ticker": "HINDUNILVR.NS",
@@ -376,8 +376,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "SBIN.NS",
@@ -386,8 +386,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7713
+    "last_date": "2026-09-28",
+    "points": 7718
   },
   {
     "ticker": "BHARTIARTL.NS",
@@ -396,8 +396,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6017
+    "last_date": "2026-09-28",
+    "points": 6022
   },
   {
     "ticker": "KOTAKBANK.NS",
@@ -406,8 +406,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2001-07-02",
-    "last_date": "2026-09-21",
-    "points": 6279
+    "last_date": "2026-09-28",
+    "points": 6284
   },
   {
     "ticker": "LT.NS",
@@ -416,8 +416,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6020
+    "last_date": "2026-09-28",
+    "points": 6025
   },
   {
     "ticker": "ITC.NS",
@@ -426,8 +426,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7712
+    "last_date": "2026-09-28",
+    "points": 7717
   },
   {
     "ticker": "AXISBANK.NS",
@@ -436,8 +436,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1998-11-27",
-    "last_date": "2026-09-21",
-    "points": 6953
+    "last_date": "2026-09-28",
+    "points": 6958
   },
   {
     "ticker": "BAJFINANCE.NS",
@@ -446,8 +446,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6017
+    "last_date": "2026-09-28",
+    "points": 6022
   },
   {
     "ticker": "ASIANPAINT.NS",
@@ -456,8 +456,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6017
+    "last_date": "2026-09-28",
+    "points": 6022
   },
   {
     "ticker": "MARUTI.NS",
@@ -466,8 +466,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2003-07-09",
-    "last_date": "2026-09-21",
-    "points": 5753
+    "last_date": "2026-09-28",
+    "points": 5758
   },
   {
     "ticker": "SUNPHARMA.NS",
@@ -476,8 +476,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "TITAN.NS",
@@ -486,8 +486,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "WIPRO.NS",
@@ -496,8 +496,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "ULTRACEMCO.NS",
@@ -506,8 +506,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-08-12",
-    "last_date": "2026-09-21",
-    "points": 5987
+    "last_date": "2026-09-28",
+    "points": 5992
   },
   {
     "ticker": "NESTLEIND.NS",
@@ -516,8 +516,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-08-12",
-    "last_date": "2026-09-21",
-    "points": 5990
+    "last_date": "2026-09-28",
+    "points": 5995
   },
   {
     "ticker": "ONGC.NS",
@@ -526,8 +526,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7712
+    "last_date": "2026-09-28",
+    "points": 7717
   },
   {
     "ticker": "TATASTEEL.NS",
@@ -536,8 +536,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7715
+    "last_date": "2026-09-28",
+    "points": 7720
   },
   {
     "ticker": "POWERGRID.NS",
@@ -546,8 +546,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2007-10-05",
-    "last_date": "2026-09-21",
-    "points": 4679
+    "last_date": "2026-09-28",
+    "points": 4684
   },
   {
     "ticker": "NTPC.NS",
@@ -556,8 +556,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2004-11-05",
-    "last_date": "2026-09-21",
-    "points": 5406
+    "last_date": "2026-09-28",
+    "points": 5411
   },
   {
     "ticker": "ADANIENT.NS",
@@ -566,8 +566,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-07-01",
-    "last_date": "2026-09-21",
-    "points": 6019
+    "last_date": "2026-09-28",
+    "points": 6024
   },
   {
     "ticker": "HCLTECH.NS",
@@ -576,8 +576,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-08-12",
-    "last_date": "2026-09-21",
-    "points": 5991
+    "last_date": "2026-09-28",
+    "points": 5996
   },
   {
     "ticker": "M&M.NS",
@@ -586,8 +586,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7713
+    "last_date": "2026-09-28",
+    "points": 7718
   },
   {
     "ticker": "BAJAJFINSV.NS",
@@ -596,8 +596,8 @@
     "market": "in",
     "currency": "INR",
     "first_date": "2002-08-12",
-    "last_date": "2026-09-21",
-    "points": 5986
+    "last_date": "2026-09-28",
+    "points": 5991
   },
   {
     "ticker": "DRREDDY.NS",
@@ -606,7 +606,7 @@
     "market": "in",
     "currency": "INR",
     "first_date": "1996-01-01",
-    "last_date": "2026-09-21",
-    "points": 7712
+    "last_date": "2026-09-28",
+    "points": 7717
   }
 ]
